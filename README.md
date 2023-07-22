@@ -133,7 +133,7 @@ This project is under the MIT License. Feel free to use, modify, and distribute 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit an issue or a pull request. Let's collaborate and make this project even better.
 
 ## Acknowledgments
-
+Special thanks to:
 - The Transfermarkt website for providing valuable data for analysis.
 - Open-source libraries and frameworks used in this project.
 -  [*Hossein JourEbrahimian*](https://github.com/H055EIN), [*Amirhossein Sharifinezhad*](https://github.com/Powerostad), [*Mohammadhossein Shamsipour*](https://github.com/Mound21k) for their contributions and efforts in developing this project.
